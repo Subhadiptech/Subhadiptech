@@ -10,11 +10,8 @@
 <br>
 
 - 🌱 I’m currently learning **Android development**
-
-- 🤝 I'm looking forward for  **Open Source Contributions** 
-
+- 🤝 I'm looking forward for  **Open Source Contributions**
 - 📫 How to reach me **subhadipdhn@gmail.com**
-
 - ⚡ Fun fact **I don't know exactly what I should learn😅**
 <br>
 <br>
