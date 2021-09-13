@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="80%" height = "250px" src="E:\GIT\Profile\bg.gif" alt="cover" />
+<img width="80%" height = "250px" src="https://user-images.githubusercontent.com/89024718/133125530-5e6663c7-9010-4bef-a37f-3d1ab9ea6664.gif" alt="cover" />
 </div>
 <h1 align="center"> Hello Coders <img width=28 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"> , I'm Subhadip </h1>
 <h3 align="center">Debugging... 😴😐</h3>
