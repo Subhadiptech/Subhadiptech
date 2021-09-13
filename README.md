@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="80%" height = "250px" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" alt="cover" />
+<img width="80%" height = "250px" src="https://assets5.lottiefiles.com/packages/lf20_vo0a1yca.json" alt="cover" />
 </div>
 <h1 align="center"> Hello Coders <img width=28 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"> , I'm Subhadip </h1>
 <h3 align="center">Debugging... 😴😐</h3>
