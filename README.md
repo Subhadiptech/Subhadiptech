@@ -24,7 +24,7 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
  <a href="http://www.cplusplus.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/linux.png" alt="linux" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/linux.png" alt="linux" width="40" height="40"/> </a><a href="https://dart.dev/guides/" target="_blank"> <img src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg" width="40" height="40"/> </a>
 <br>
 <br>
 <p align="center">
