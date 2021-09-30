@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhadiptech&label=Profile%20views&color=0e75b6&style=flat" alt="Subhadiptech" /> </p>
 <br>
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **Flutter**
 
 - 🤝 I'm looking forward for  **Open Source Contributions** 
 
