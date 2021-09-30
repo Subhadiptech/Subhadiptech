@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="80%" height = "250px" src="https://lh3.googleusercontent.com/proxy/KY5GPFWuDgjWaARYCmR1LfGYNzNkUavaHzfU3GTSOu8lizhU_TdPa08FthEfQLAtQctZPXuvp5zBlwkE_7zh-JyGHAFWl59L1Fv7lrRBhXJbYZjcko5Rdf1jrI-t2aS6eqx9-wTP5SAxsHXlbrOO0ivYcnqw=s0-d" alt="cover" />
+<img width="80%" height = "300px" src="https://lh3.googleusercontent.com/proxy/KY5GPFWuDgjWaARYCmR1LfGYNzNkUavaHzfU3GTSOu8lizhU_TdPa08FthEfQLAtQctZPXuvp5zBlwkE_7zh-JyGHAFWl59L1Fv7lrRBhXJbYZjcko5Rdf1jrI-t2aS6eqx9-wTP5SAxsHXlbrOO0ivYcnqw=s0-d" alt="cover" />
 </div>
 <h1 align="center"> Hello Coders <img width=28 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"> , I'm Subhadip </h1>
 <h3 align="center">Debugging... 😴😐</h3>
