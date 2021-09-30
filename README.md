@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="80%" height = "300px" src="https://www.icegif.com/wp-content/uploads/illusion-icegif-9.gif" alt="cover" />
+<img width="100%" height = "300px" src="https://www.icegif.com/wp-content/uploads/illusion-icegif-9.gif" alt="cover" />
 </div>
 <h1 align="center"> Hello Coders <img width=28 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"> , I'm Subhadip </h1>
 <h3 align="center">Debugging... 😴😐</h3>
