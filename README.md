@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="80%" height = "300px" src="https://cdna.artstation.com/p/assets/images/images/021/690/522/original/julia-nikolskaia-1.gif?1572593466&dl=1" alt="cover" />
+<img width="80%" height = "300px" src="https://data.photofunky.net/output/image/c/6/c/6/c6c6f0/photofunky.gif" alt="cover" />
 </div>
 <h1 align="center"> Hello Coders <img width=28 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"> , I'm Subhadip </h1>
 <h3 align="center">Debugging... 😴😐</h3>
