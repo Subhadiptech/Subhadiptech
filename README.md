@@ -3,7 +3,7 @@
 <img width="100%" height = "300px" src="https://user-images.githubusercontent.com/89024718/136270329-36384630-2ee8-4d51-ad7b-5e3d0c927eaa.jpg" alt="cover" />
 </div>
 <h1 align="center"> Hello Coders <img width=28 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"> , I'm Subhadip </h1>
-<h3 align="center">Debugging... 😴😐</h3>
+<h3 align="center">Debugging... 😐</h3>
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhadiptech&label=Profile%20views&color=0e75b6&style=flat" alt="Subhadiptech" /> </p>
