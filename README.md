@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **subhadipdhn@gmail.com**
 
-- ⚡ Fun fact **I don't know exactly what I should learn😅**
+- ⚡ Fun fact **I don't develop apps, I develop bugs**
 <br>
 <br>
 <br>
