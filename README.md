@@ -6,8 +6,6 @@
 <h3 align="center">Debugging... 😐</h3>
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhadiptech&label=Profile%20views&color=0e75b6&style=flat" alt="Subhadiptech" /> </p>
-<br>
 
 - 🌱 I’m currently building **Android Projects** and actively contributing on **Github**
 
