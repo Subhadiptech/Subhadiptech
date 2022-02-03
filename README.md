@@ -11,9 +11,7 @@
 
 - 🤝 I'm always looking for **Open Source Contributions** 
 
-- 📫 How to reach me **subhadipdhn@gmail.com**
-
-- ⚡ Fun fact **I don't develop apps, I develop bugs**
+- ⚡ Fun fact **I know how to build, but doesn't know what to build**
 <br>
 <br>
 <br>
