@@ -3,7 +3,7 @@
 <img width="100%" height = "300px" src="https://user-images.githubusercontent.com/89024718/146765793-41e71ee2-61d7-474c-8da0-5f08f8fe0d8f.png" alt="cover" />
 </div>
 <h1 align="center"> Hello Coders <img width=28 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"> , I'm Subhadip </h1>
-<h3 align="center">Debugging... 😐</h3>
+<h3 align="center">Bug Developer 😐</h3>
 <br>
 <br>
 
