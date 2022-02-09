@@ -39,7 +39,7 @@
 <p align="left">
 <a href="https://instagram.com/__subhadip__17" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="__subhadip__17"/></a>
 <a href="https://twitter.com/Subhadi88747375?s=08" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Subhadi88747375" /></a>
-<a href="https://www.linkedin.com/in/subhadipdhn/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/89024718/136453292-a9b6c55a-a5b2-4512-8d8f-69c35ec61002.png" alt="subhadipdhn" width="4%" height="4%" /></a>
-  <a href="mailto:subhadipdhn@gmail.com" target="_blank" style={margin-left:2px}><img align="center" src="https://user-images.githubusercontent.com/89024718/152307161-243fe866-ae83-4275-9aa8-8fb3217f31b7.png" alt="subhadipdhn" width="4%" height="4%" /></a>
+<a href="https://www.linkedin.com/in/subhadipdhn/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/89024718/136453292-a9b6c55a-a5b2-4512-8d8f-69c35ec61002.png" alt="subhadipdhn" width="4%" height="4%"/></a>
+  <a href="mailto:subhadipdhn@gmail.com" target="_blank" style={margin-left:2px}><img align="center" src="https://user-images.githubusercontent.com/89024718/152307161-243fe866-ae83-4275-9aa8-8fb3217f31b7.png" alt="subhadipdhn" width="4%" height="4%"/></a>
 </p>
 
