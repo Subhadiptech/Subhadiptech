@@ -1,15 +1,15 @@
 
 <div align="center">
-<img width="100%" height = "300px" src="https://user-images.githubusercontent.com/89024718/146765793-41e71ee2-61d7-474c-8da0-5f08f8fe0d8f.png" alt="cover" />
+<img width="100%" height = "300px" src="https://github.com/Subhadiptech/Subhadiptech/assets/89024718/9c76805f-5cef-44e1-92ed-3cb114f22b95" alt="cover" />
 </div>
-<h1 align="center"> Hello Coders <img width=28 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"> , I'm Subhadip </h1>
-<h3 align="center">Bug Developer 😐</h3>
+<h1 align="center"> Hey! <img width=28 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"> , I'm Subhadip </h1>
+<h3 align="center">Android Developer</h3>
 <br>
 <br>
 
-- 🌱 I’m currently building **Android Projects** and actively contributing on **Github**
+- 🌱 I’m currently learning **Android Testing** and actively sharing stuffs on **Github**
 
-- 🤝 I'm always looking for **Open Source Contributions** 
+- 🤝 I'm constantly learning new things and writing articles on **[Hashnode](https://learndroid.hashnode.dev/)** 
 
 - ⚡ Fun fact **I know how to build, but doesn't know what to build**
 <br>
@@ -19,8 +19,6 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://user-images.githubusercontent.com/89024718/146765351-6cf1ff3f-423d-4370-bbf5-e73fb949913d.png" alt="java" width="40" height="40"/> </a> 
  <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://user-images.githubusercontent.com/89024718/146764078-25a14dea-055e-44ae-aba2-1651b8c1d952.png" alt="kotlin" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/89024718/146764527-7e95ce90-59ed-4f9b-8292-dbef9786265d.png" alt="js" width="40" height="40"/> </a>   
-   <a href="https://reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://user-images.githubusercontent.com/89024718/146764938-a067b0b4-d0dd-4cd1-82e0-0794bedfd6bd.png" alt="react js" width="40" height="40"/>
      <a href="https://firebase.google.com/docs?gclsrc=ds&gclsrc=ds&gclid=COWPn_-r8vQCFUF-jgoduzMIFw" target="_blank"> <img src="https://user-images.githubusercontent.com/89024718/146765255-f8544c0a-0a2b-4c66-8e84-f8744def478b.png" alt="firebase" width="40" height="40"/>
       <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/linux.png" alt="linux" width="40" height="40"/> </a>
 <br>
